@@ -2,7 +2,7 @@
 
 <!--- Describe your changes in detail. If this is a UI change, please include a screenshot. -->
 
-## Rlated PRs
+## Related PRs
 
 <!--- Please remove the whole section, if does not apply -->
 
